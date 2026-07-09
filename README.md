@@ -36,7 +36,7 @@ Perfect for:
 
 ## 📸 Screenshot
 
-![InfoGt GUI Interface](https://via.placeholder.com/800x600?text=InfoGt+GUI+Screenshot)
+IN THE FILES
 
 ```
 [Screenshot: Control panel on left side and colorized output on right]
