@@ -39,7 +39,7 @@ Perfect for:
 IN THE FILES
 
 ```
-[Screenshot: Control panel on left side and colorized output on right]
+
 ```
 
 ---
